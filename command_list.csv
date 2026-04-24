@@ -1,0 +1,158 @@
+    1  npm init wdio@latest . -- --yes
+    2  npm init wdio@latest . -- --yes
+    3  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    4  npm init wdio@latest
+    5  npm init wdio@latest . -- --yes
+    6  npm init wdio@latest . -- --yes
+    7  node -v\n
+    8  node -v\n
+    9  node -v\n
+   10  npm init wdio@latest .
+   11  npm init wdio@latest . -- --yes
+   12  npm init wdio@latest . --
+   13  cd "/Users/alex4red/Desktop/Wdio tests"\n
+   14  npm run wdio
+   15  npm run wdio
+   16  npm run wdio
+   17  npm run wdio
+   18  npm run wdio
+   19  npm run wdio
+   20  npm run wdio
+   21  ls
+   22  npm run wdio
+   23  npm run wdio
+   24  npm run wdio
+   25  npm run wdio
+   26  npm run wdio
+   27  npm run wdio
+   28  npm run wdio
+   29  npm run wdio
+   30  npm run wdio
+   31  npm run wdio
+   32  npm run wdio
+   33  npm run wdio
+   34  npm run wdio
+   35  npm run wdio
+   36  npm run wdio
+   37  npm run wdio
+   38  npm run wdio
+   39  npm run wdio
+   40  npm run wdio
+   41  npm run wdio
+   42  npm run wdio
+   43  npm run wdio
+   44  npm run wdio
+   45  npm run wdio
+   46  npm run wdio
+   47  npm run wdio
+   48  npm run wdio
+   49  npm run wdio
+   50  npm run wdio
+   51  npm run wdio
+   52  npm run wdio
+   53  npm run wdio
+   54  npm run wdio
+   55  npm run wdio
+   56  npm run wdio
+   57  npm run wdio
+   58  npm run wdio
+   59  npm run wdio
+   60  npm run wdio
+   61  npm run wdio
+   62  npm run wdio
+   63  npm run wdio
+   64  npm run wdio
+   65  npm run wdio
+   66  npm run wdio
+   67  brew install git
+   68  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   69  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   70  brew install git
+   71  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   72  brew install git
+   73  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   74  brew install git
+   75  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   76  echo >> /Users/alex4red/.zprofile\necho 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/alex4red/.zprofile\neval "$(/opt/homebrew/bin/brew shellenv)"
+   77  echo >> /Users/alex4red/.zprofile\n    echo 'eval "$(/opt/homebrew/bin/brew shellenv zsh)"' >> /Users/alex4red/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv zsh)"
+   78  echo >> /Users/alex4red/.zprofile
+   79  echo >> /Users/alex4red/.zprofile\n
+   80  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/alex4red/.zprofile\n
+   81  eval "$(/opt/homebrew/bin/brew shellenv)"
+   82  brew --version
+   83  brew install git
+   84  git --version
+   85  which git
+   86  echo 'export PATH="/opt/homebrew/bin:$PATH"' >> ~/.zprofile\nsource ~/.zprofile
+   87  which git
+   88  git --version
+   89  git config --global user.name "Alexandra Plotnikova"
+   90  git config --global user.email "alexandra4red20@gmail.com"
+   91  git config --list
+   92  -c && rm
+   93  .bash_history
+   94  ~/.zsh_history
+   95  git clone https://github.com/alexandra4red/HW_10.git
+   96  clear
+   97  cd Homework 10
+   98  cd Git
+   99  clear
+  100  cd Git
+  101  cd Homework 10
+  102  clear
+  103  cd ~/Desktop
+  104  cd Homework 10
+  105  cd ~/Homework 10
+  106  cd ~/Homework
+  107  clear
+  108  ls
+  109  clear
+  110  ls
+  111  cd Desktop
+  112  cd Downloads
+  113  ls
+  114  git config ~global user.name "Alexandra Plotnikova"
+  115  git config user.name "Alexandra Plotnikova"\n
+  116  git config ~global user.name "Alexandra Plotnikova"
+  117  git config ~global user.email alexandra4red20@gmail.com
+  118  clear
+  119  cd Git
+  120  cd git
+  121  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  122  cd ~/Desktop
+  123  git clone https://github.com/alexandra4red/HW_10.git
+  124  cd HW_10
+  125  ls
+  126  cd ..
+  127  ls
+  128  cd HW_10
+  129  touch text_ignore.txt
+  130  git status
+  131  git status
+  132  git add text_ignore.txt
+  133  git status
+  134  git commit ~m "text_ignore.txt created"
+  135  git commit "text_ignore.txt created"
+  136  git commit -m "text_ignore.txt created"
+  137  git status
+  138  git log
+  139  touch main_test.txt
+  140  git add main_test.txt
+  141  git commit -m "main_test.txt created"
+  142  git log
+  143  git status
+  144  git push
+  145  git branch
+  146  git checkout -b develop
+  147  git touch develop_test.txt
+  148  touch develop_test.txt
+  149  git add develop_test.txt
+  150  git commit -m "develop_test.txt created"
+  151  git status
+  152  git checkout main
+  153  git commit -m "added changes to the document"
+  154  git add develop_test.txt
+  155  git commit -m "added changes to the document"
+  156  git checkout main
+  157  git merge develop
+  158  git status
